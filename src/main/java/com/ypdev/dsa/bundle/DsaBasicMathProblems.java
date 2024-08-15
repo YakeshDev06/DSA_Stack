@@ -12,7 +12,7 @@ public class DsaBasicMathProblems {
 
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { //Git pull config
 		DsaBasicMathProblems dsa = new DsaBasicMathProblems();
 		dsa.findOddEven(21);
 	}

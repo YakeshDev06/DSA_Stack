@@ -10,7 +10,9 @@ public class DsaBasicMathProblems {
 			System.out.println("Given no " + no + " is odd");
 		}
 
-	}
+	} 
+	
+	//Check for pull request.
 
 	public static void main(String[] args) {
 		DsaBasicMathProblems dsa = new DsaBasicMathProblems();
